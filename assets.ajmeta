@@ -1,0 +1,50 @@
+{
+	"formatVersion": "1.0.0",
+	"rigs": {
+		"aj:nest": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": ["assets/aj/items/blueprint/nest/bone.json", "assets/aj/models/blueprint/nest/bone.json", "assets/aj/textures/blueprint/nest/block1.png"]
+		},
+		"aj:seagull": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/seagull/body.json",
+				"assets/aj/items/blueprint/seagull/head.json",
+				"assets/aj/items/blueprint/seagull/leftleg.json",
+				"assets/aj/items/blueprint/seagull/leftwing.json",
+				"assets/aj/items/blueprint/seagull/rightleg.json",
+				"assets/aj/items/blueprint/seagull/rightwing.json",
+				"assets/aj/items/blueprint/seagull/tail.json",
+				"assets/aj/models/blueprint/seagull/body.json",
+				"assets/aj/models/blueprint/seagull/head.json",
+				"assets/aj/models/blueprint/seagull/leftleg.json",
+				"assets/aj/models/blueprint/seagull/leftwing.json",
+				"assets/aj/models/blueprint/seagull/rightleg.json",
+				"assets/aj/models/blueprint/seagull/rightwing.json",
+				"assets/aj/models/blueprint/seagull/tail.json",
+				"assets/aj/textures/blueprint/seagull/seagull.png"
+			]
+		},
+		"aj:turtle": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/turtle/backleftleg.json",
+				"assets/aj/items/blueprint/turtle/backrightleg.json",
+				"assets/aj/items/blueprint/turtle/body.json",
+				"assets/aj/items/blueprint/turtle/egg.json",
+				"assets/aj/items/blueprint/turtle/frontleftleg.json",
+				"assets/aj/items/blueprint/turtle/frontrightleg.json",
+				"assets/aj/items/blueprint/turtle/head.json",
+				"assets/aj/models/blueprint/turtle/backleftleg.json",
+				"assets/aj/models/blueprint/turtle/backrightleg.json",
+				"assets/aj/models/blueprint/turtle/body.json",
+				"assets/aj/models/blueprint/turtle/egg.json",
+				"assets/aj/models/blueprint/turtle/frontleftleg.json",
+				"assets/aj/models/blueprint/turtle/frontrightleg.json",
+				"assets/aj/models/blueprint/turtle/head.json",
+				"assets/aj/textures/blueprint/turtle/eggshell.png",
+				"assets/aj/textures/blueprint/turtle/turtle.png"
+			]
+		}
+	}
+}
