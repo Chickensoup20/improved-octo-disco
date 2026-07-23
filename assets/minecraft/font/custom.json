@@ -7,13 +7,6 @@
             "ascent": 150,
             "height": 2056,
             "chars": ["0"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/scenelines.png",
-            "ascent": 32,
-            "height": 256,
-            "chars": ["1"]
         }
     ]
 }
