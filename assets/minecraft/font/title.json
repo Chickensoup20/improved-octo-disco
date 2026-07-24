@@ -3,7 +3,7 @@
         {"type":"space","advances":{"!":-1,"?":1,"-":-10,"_":10}},
         {
             "type": "bitmap",
-            "file": "minecraft:font/title/title1_1.png",
+            "file": "minecraft:font/title1.png",
             "ascent": 64,
             "height": 16,
             "chars": ["1"]
