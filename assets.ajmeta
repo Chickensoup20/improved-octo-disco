@@ -1,6 +1,26 @@
 {
 	"formatVersion": "1.0.0",
 	"rigs": {
+		"aj:gull": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/gull/body.json",
+				"assets/aj/items/blueprint/gull/head.json",
+				"assets/aj/items/blueprint/gull/leftleg.json",
+				"assets/aj/items/blueprint/gull/leftwing.json",
+				"assets/aj/items/blueprint/gull/rightleg.json",
+				"assets/aj/items/blueprint/gull/rightwing.json",
+				"assets/aj/items/blueprint/gull/tail.json",
+				"assets/aj/models/blueprint/gull/body.json",
+				"assets/aj/models/blueprint/gull/head.json",
+				"assets/aj/models/blueprint/gull/leftleg.json",
+				"assets/aj/models/blueprint/gull/leftwing.json",
+				"assets/aj/models/blueprint/gull/rightleg.json",
+				"assets/aj/models/blueprint/gull/rightwing.json",
+				"assets/aj/models/blueprint/gull/tail.json",
+				"assets/aj/textures/blueprint/gull/gull.png"
+			]
+		},
 		"aj:nest": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": ["assets/aj/items/blueprint/nest/bone.json", "assets/aj/models/blueprint/nest/bone.json", "assets/aj/textures/blueprint/nest/block1.png"]
@@ -23,6 +43,26 @@
 				"assets/aj/models/blueprint/seagull/rightwing.json",
 				"assets/aj/models/blueprint/seagull/tail.json",
 				"assets/aj/textures/blueprint/seagull/seagull.png"
+			]
+		},
+		"aj:squirrel": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/squirrel/backleftfoot.json",
+				"assets/aj/items/blueprint/squirrel/backrightfoot.json",
+				"assets/aj/items/blueprint/squirrel/body.json",
+				"assets/aj/items/blueprint/squirrel/head.json",
+				"assets/aj/items/blueprint/squirrel/leftfoot.json",
+				"assets/aj/items/blueprint/squirrel/rightfoot.json",
+				"assets/aj/items/blueprint/squirrel/tail.json",
+				"assets/aj/models/blueprint/squirrel/backleftfoot.json",
+				"assets/aj/models/blueprint/squirrel/backrightfoot.json",
+				"assets/aj/models/blueprint/squirrel/body.json",
+				"assets/aj/models/blueprint/squirrel/head.json",
+				"assets/aj/models/blueprint/squirrel/leftfoot.json",
+				"assets/aj/models/blueprint/squirrel/rightfoot.json",
+				"assets/aj/models/blueprint/squirrel/tail.json",
+				"assets/aj/textures/blueprint/squirrel/squirrel.png"
 			]
 		},
 		"aj:turtle": {
