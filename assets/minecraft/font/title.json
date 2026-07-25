@@ -32,28 +32,28 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/title/title2_1.png",
-            "ascent": 0,
+            "ascent": 2,
             "height": 24,
             "chars": ["5"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:font/title/title2_2.png",
-            "ascent": 0,
+            "ascent": 2,
             "height": 24,
             "chars": ["6"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:font/title/title2_3.png",
-            "ascent": 0,
+            "ascent": 2,
             "height": 24,
             "chars": ["7"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:font/title/title2_4.png",
-            "ascent": 0,
+            "ascent": 2,
             "height": 24,
             "chars": ["8"]
         }    
