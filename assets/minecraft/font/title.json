@@ -4,28 +4,28 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/title/title1_1.png",
-            "ascent": 32,
+            "ascent": 24,
             "height": 24,
             "chars": ["1"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:font/title/title1_2.png",
-            "ascent": 32,
+            "ascent": 24,
             "height": 24,
             "chars": ["2"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:font/title/title1_3.png",
-            "ascent": 32,
+            "ascent": 24,
             "height": 24,
             "chars": ["3"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:font/title/title1_4.png",
-            "ascent": 32,
+            "ascent": 24,
             "height": 24,
             "chars": ["4"]
         },
@@ -39,21 +39,21 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/title/title2_2.png",
-            "ascent": 2,
+            "ascent": 4,
             "height": 24,
             "chars": ["6"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:font/title/title2_3.png",
-            "ascent": 2,
+            "ascent": 4,
             "height": 24,
             "chars": ["7"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:font/title/title2_4.png",
-            "ascent": 2,
+            "ascent": 4,
             "height": 24,
             "chars": ["8"]
         }    
