@@ -2,7 +2,7 @@
   "introsong": {
     "subtitle": "Intro Song",
     "sounds": [
-      "minecraft:introsong"
+      "intro/introsong"
     ]
   }
 }
