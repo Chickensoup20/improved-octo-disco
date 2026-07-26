@@ -1,6 +1,10 @@
 {
 	"formatVersion": "1.0.0",
 	"rigs": {
+		"aj:camera": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": []
+		},
 		"aj:gull": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
