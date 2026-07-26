@@ -27,7 +27,7 @@
 		},
 		"aj:nest": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
-			"versionedFiles": ["assets/aj/items/blueprint/nest/bone.json", "assets/aj/models/blueprint/nest/bone.json", "assets/aj/textures/blueprint/nest/block1.png"]
+			"versionedFiles": ["assets/aj/items/blueprint/nest/nest.json", "assets/aj/models/blueprint/nest/nest.json", "assets/aj/textures/blueprint/nest/block1.png"]
 		},
 		"aj:seagull": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],

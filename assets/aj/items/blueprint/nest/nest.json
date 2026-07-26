@@ -1,7 +1,7 @@
 {
 	"model": {
 		"type": "minecraft:model",
-		"model": "aj:blueprint/nest/bone",
+		"model": "aj:blueprint/nest/nest",
 		"tints": [
 			{"type": "minecraft:dye", "default": [1, 1, 1]}
 		]
