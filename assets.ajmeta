@@ -89,6 +89,39 @@
 				"assets/aj/textures/blueprint/turtle/eggshell.png",
 				"assets/aj/textures/blueprint/turtle/turtle.png"
 			]
+		},
+		"aj:turtleend": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/turtleend/backleftleg.json",
+				"assets/aj/items/blueprint/turtleend/backrightleg.json",
+				"assets/aj/items/blueprint/turtleend/body.json",
+				"assets/aj/items/blueprint/turtleend/body2_rotation.json",
+				"assets/aj/items/blueprint/turtleend/body_rotation.json",
+				"assets/aj/items/blueprint/turtleend/frontleftleg.json",
+				"assets/aj/items/blueprint/turtleend/frontrightleg.json",
+				"assets/aj/items/blueprint/turtleend/head.json",
+				"assets/aj/items/blueprint/turtleend/head2.json",
+				"assets/aj/items/blueprint/turtleend/leg1.json",
+				"assets/aj/items/blueprint/turtleend/leg2.json",
+				"assets/aj/items/blueprint/turtleend/leg3.json",
+				"assets/aj/items/blueprint/turtleend/leg4.json",
+				"assets/aj/models/blueprint/turtleend/backleftleg.json",
+				"assets/aj/models/blueprint/turtleend/backrightleg.json",
+				"assets/aj/models/blueprint/turtleend/body.json",
+				"assets/aj/models/blueprint/turtleend/body2_rotation.json",
+				"assets/aj/models/blueprint/turtleend/body_rotation.json",
+				"assets/aj/models/blueprint/turtleend/frontleftleg.json",
+				"assets/aj/models/blueprint/turtleend/frontrightleg.json",
+				"assets/aj/models/blueprint/turtleend/head.json",
+				"assets/aj/models/blueprint/turtleend/head2.json",
+				"assets/aj/models/blueprint/turtleend/leg1.json",
+				"assets/aj/models/blueprint/turtleend/leg2.json",
+				"assets/aj/models/blueprint/turtleend/leg3.json",
+				"assets/aj/models/blueprint/turtleend/leg4.json",
+				"assets/aj/textures/blueprint/turtleend/bigturtle.png",
+				"assets/aj/textures/blueprint/turtleend/turtle.png"
+			]
 		}
 	}
 }
