@@ -1,8 +1,8 @@
 {
   "introsong": {
-    "subtitle": "Intro Song",
+    "subtitle": "intro",
     "sounds": [
-      "intro/introsong"
+      "introsong"
     ]
   }
 }
